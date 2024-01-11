@@ -1,0 +1,14 @@
+E:\iCloudDrive\Development\Projects\repos\finances-app\bin\Debug\net8.0\finances-app.exe
+E:\iCloudDrive\Development\Projects\repos\finances-app\bin\Debug\net8.0\finances-app.deps.json
+E:\iCloudDrive\Development\Projects\repos\finances-app\bin\Debug\net8.0\finances-app.runtimeconfig.json
+E:\iCloudDrive\Development\Projects\repos\finances-app\bin\Debug\net8.0\finances-app.dll
+E:\iCloudDrive\Development\Projects\repos\finances-app\bin\Debug\net8.0\finances-app.pdb
+E:\iCloudDrive\Development\Projects\repos\finances-app\obj\Debug\net8.0\finances-app.GeneratedMSBuildEditorConfig.editorconfig
+E:\iCloudDrive\Development\Projects\repos\finances-app\obj\Debug\net8.0\finances-app.AssemblyInfoInputs.cache
+E:\iCloudDrive\Development\Projects\repos\finances-app\obj\Debug\net8.0\finances-app.AssemblyInfo.cs
+E:\iCloudDrive\Development\Projects\repos\finances-app\obj\Debug\net8.0\finances-app.csproj.CoreCompileInputs.cache
+E:\iCloudDrive\Development\Projects\repos\finances-app\obj\Debug\net8.0\finances-app.dll
+E:\iCloudDrive\Development\Projects\repos\finances-app\obj\Debug\net8.0\refint\finances-app.dll
+E:\iCloudDrive\Development\Projects\repos\finances-app\obj\Debug\net8.0\finances-app.pdb
+E:\iCloudDrive\Development\Projects\repos\finances-app\obj\Debug\net8.0\finances-app.genruntimeconfig.cache
+E:\iCloudDrive\Development\Projects\repos\finances-app\obj\Debug\net8.0\ref\finances-app.dll
